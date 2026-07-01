@@ -126,5 +126,37 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17829099296755491",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"C:\\Connect-AI-World\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
+    "tags": [
+      "스킬",
+      "후킹",
+      "run",
+      "connect",
+      "분석기",
+      "본인"
+    ],
+    "ts": 1782909929677,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
+  },
+  {
+    "id": "n17829099297498020",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"C:\\Connect-AI-World\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
+    "tags": [
+      "스킬",
+      "후킹",
+      "run",
+      "connect",
+      "분석기",
+      "본인"
+    ],
+    "ts": 1782909929749,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
   }
 ]
